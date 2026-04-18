@@ -1,0 +1,16 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+.env
+
+# Dataset and output files
+data/
+gate_distributions.png
+
+# IDE files
+.vscode/
